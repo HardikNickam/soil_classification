@@ -10,7 +10,7 @@ This project is a Flask application that serves as an image classification tool 
 - Displays prediction results on the same page.
 
 ## Requirements
-- Python 3.x
+- Python 3
 - Flask
 - TensorFlow (with Keras)
 - NumPy
